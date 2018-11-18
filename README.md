@@ -15,4 +15,4 @@
 
 5. If the new project isn't visible on the startup screen, click on Browse at the bottom of the screen, navigate to location you downloaded this project and select "MyProject.uproject".
 
-6. Once the environment has been loaded, press the run button to start the test environment.
+6. Once the environment has been loaded, press the "build" button to build the project. After that is done, press the "run" button to start the test environment. Optionally you could also go through File>Package project>Windows to build a version of the project that runs outside the editor.
